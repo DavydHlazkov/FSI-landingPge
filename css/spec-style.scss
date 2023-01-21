@@ -1,0 +1,22 @@
+.close {
+  visibility: hidden;
+}
+
+.hide {
+  position: absolute;
+  top: -100%;
+  left: -200%;
+}
+.hover {
+  margin: 0 !important;
+  h4 {
+    margin-top: -3em;
+    margin-left: -1em;
+    margin-bottom: 0;
+  }
+}
+
+#forum {
+  text-decoration: underline;
+  cursor: pointer;
+}
